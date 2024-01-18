@@ -3,7 +3,7 @@
     font-weight: bold;
     font-style: normal;
     font-display: swap;
-    src: url('woff2/iAWriterQuattro-Bold.woff2') format('woff2');
+    src: url('woff2/iAWriterQuattro-Bold.woff2') format('woff2'), url('woff/iAWriterQuattro-Bold.woff') format('woff');
 }
 
 @font-face {
@@ -11,7 +11,7 @@
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-    src: url('woff2/iAWriterQuattro-Regular.woff2') format('woff2');
+    src: url('woff2/iAWriterQuattro-Regular.woff2') format('woff2'), url('woff/iAWriterQuattro-Regular.woff') format('woff');
 }
 
 @font-face {
@@ -19,7 +19,7 @@
     font-weight: normal;
     font-style: italic;
     font-display: swap;
-    src: url('woff2/iAWriterQuattro-Italic.woff2') format('woff2');
+    src: url('woff2/iAWriterQuattro-Italic.woff2') format('woff2'), url('woff/iAWriterQuattro-Italic.woff') format('woff');
 }
 
 @font-face {
@@ -27,5 +27,5 @@
     font-weight: bold;
     font-style: italic;
     font-display: swap;
-    src: url('woff2/iAWriterQuattro-BoldItalic.woff2') format('woff2');
+    src: url('woff2/iAWriterQuattro-BoldItalic.woff2') format('woff2'), url('woff/iAWriterQuattro-BoldItalic.woff') format('woff');
 }
